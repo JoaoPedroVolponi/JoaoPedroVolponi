@@ -23,4 +23,3 @@
   ![Snake animation](https://github.com/JoaoPedroVolponi/JoaoPedroVolponi/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-_
