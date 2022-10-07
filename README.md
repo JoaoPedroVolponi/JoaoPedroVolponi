@@ -7,8 +7,6 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Swift" height="30" width="70" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
   <img align="center" alt="Java" height="30" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whit">
-  <img align="center" alt="C" height="30" width="70" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="center" alt="HTML" height="30" width="70" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
   ##
