@@ -6,7 +6,6 @@
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Swift" height="30" width="70" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-  <img align="center" alt="Java" height="30" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whit">
 </div>
 
   ##
