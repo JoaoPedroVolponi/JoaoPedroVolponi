@@ -12,13 +12,13 @@
 <p align="left"> • iOS Developer </p>
 <p align="left"></p>
 
-<h3 align="left">Skills:</h3>
+<h3 align="left">Habilidades:</h3>
 <p align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=swift,typescript,javascript,tailwind,figma " />
     </a> 
 </p>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/joaopedrovolponi/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
