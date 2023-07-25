@@ -1,6 +1,6 @@
 
 <h1 align="center"><img src="https://github.com/JoaoPedroVolponi/JoaoPedroVolponi/assets/98360987/a079222a-9ce9-4861-a8e8-3479428c12c3" width="100">
-    Oie eu sou o João Pedro!</h1>
+    Salve! Prazer João Pedro!</h1>
    
 
 <h2 align="center">Front-end Developer</h3>
