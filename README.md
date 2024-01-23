@@ -40,5 +40,4 @@
 </details>
 
 ##
-  ![Snake animation](https://github.com/JoaoPedroVolponi/JoaoPedroVolponi/blob/output/github-contribution-grid-snake.svg)
- 
+ ![snake gif](https://github.com/JoaoPedroVolponi/JoaoPedroVolponi/blob/output/github-contribution-grid-snake.svg)
