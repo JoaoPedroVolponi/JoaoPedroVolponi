@@ -6,10 +6,9 @@
 <h2 align="center">Front-end Developer</h3>
 
 <p align="center">
-    <img src="https://github.com/JoaoPedroVolponi/JoaoPedroVolponi/assets/98360987/47a2ace7-b106-4374-a309-e97c34f4829c" align="center">
+    <img src="https://github.com/JoaoPedroVolponi/JoaoPedroVolponi/assets/98360987/09d8b44c-6579-4ced-808e-2913fba48118" align="center">
 </p>
 
-<p align="left"> • iOS Developer </p>
 <p align="left"></p>
 
 <h3 align="left">Habilidades:</h3>
