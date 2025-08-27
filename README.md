@@ -3,7 +3,7 @@
     Salve! Prazer João Pedro</h1>
    
 
-<h2 align="center">Front-end Developer</h3>
+<h2 align="center">Engenheiro de Software</h3>
 
 <p align="center">
     <img src="https://github.com/JoaoPedroVolponi/JoaoPedroVolponi/assets/98360987/09d8b44c-6579-4ced-808e-2913fba48118" align="center">
