@@ -14,7 +14,7 @@
 <h3 align="left">Habilidades:</h3>
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=swift,typescript,react,tailwind,figma " />
+        <img src="https://skillicons.dev/icons?i=swift,typescript,react,angular,tailwind,figma " />
     </a> 
 </p>
 <h3 align="left">Conecte-se comigo:</h3>
