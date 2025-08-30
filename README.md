@@ -23,7 +23,6 @@
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
 </p>
-
 <details>   
  
   <a href="https://github.com/JoaoPedroVolponi">
